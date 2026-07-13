@@ -89,13 +89,19 @@ Functions/
     Supporting MATLAB functions and dynamics routines
 
 Results/
-    Example simulation outputs and plots
+    Example simulation output plots
 
 BlackBrantVCParameters.csv
     Vehicle and mission configuration inputs
 
-Main.m
+ROCKET_SIMULATOR_6DOF.m
     Primary simulation execution file
+
+plot6DOFresults.m
+    Supporting MATLAB function for simulation results
+
+rocket6dof.m
+    Primary function for integration of ODE system
 ```
 
 ## Example Results
