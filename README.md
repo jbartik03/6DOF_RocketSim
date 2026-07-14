@@ -114,3 +114,7 @@ B.S. Applied Mathematics, Computing Minor
 University of North Florida
 
 Created: April 22, 2026
+
+Original work developed as part of undergraduate aerospace modeling and simulation research at the University of North Florida.
+
+Copyright © 2026 Jonathan A. Bartik. All rights reserved.
