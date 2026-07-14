@@ -107,6 +107,11 @@ rocket6dof.m
 ## Example Results
 Representative simulation outputs are provided in the `Results` directory. These include trajectory, velocity, attitude, stability, and aerodynamic performance plots generated during Black Brant VC flight simulations.
 
+## Citation
+If referencing this work, please cite:
+
+Bartik, J.A., "A Mathematical Model for Six Degree-Of-Freedom Rocket Dynamics," University of North Florida, 2026.
+
 ## Author
 Jonathan A. Bartik
 
