@@ -4,6 +4,7 @@
 
 ## Features
 * Full six-degree-of-freedom rigid-body flight dynamics simulation.
+* Axisymmetric and asymmetric modeling capabilities.
 * Coupled translational and rotational motion modeling.
 * Dynamic aerodynamic coefficient calculations throughout flight.
 * Time-varying mass and center-of-gravity tracking during propellant consumption.
